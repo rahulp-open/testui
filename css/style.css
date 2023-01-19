@@ -1,0 +1,247 @@
+body {
+    background-color: #101010;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+
+}
+
+.side {
+    margin-left: 20px;
+    margin-top: 40px;
+   
+
+}
+
+.subtitle {
+    font-size: 18px;
+}
+
+.sidebar {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+   
+    width: 35vw;
+    height: 85vh;
+
+    background-color: #1C1C22;
+    border-radius: 12px;
+    opacity: 1; 
+
+    position: absolute;
+}
+
+.tags {
+    font-size: 14px;
+    font-weight: 200;
+}
+
+.subtag {
+    font-size: 12px;
+    font-weight: 200;
+}
+
+.smalltag {
+    font-size: 10px;
+    font-weight: 200;
+    color: #8D8D8D;
+    margin-top: 3px;
+}
+
+.line {
+    margin: 0;
+    padding: 0;
+}
+
+.brandlogo {
+    margin-left: 32px;
+    margin-top: 16px
+  
+
+}
+
+.upload {
+    margin-top: 14px;
+    width: 60%;
+    height: 96px;
+    border-radius: 7px;
+    background-color:  #1a1a1f;
+    
+    box-sizing: border-box;
+    border: 2px rgba(142, 142, 142, 0.406);
+    border-style: dotted;
+    
+    padding: 20px;
+    text-align: center;
+
+}
+
+
+.info{
+   margin-top: 10px;
+   width: 60%;
+   text-align: center;
+}
+
+hr{
+    opacity: 10%;
+}
+
+
+.picker {
+    margin-top: 12px;
+    margin-left: 12px;
+    margin-right: 12px;
+    padding:3px;
+    
+    width: 92%;
+    height: 9%;
+
+    position: relative;
+    box-sizing: border-box;
+    background-color: #26262C;
+    border-radius: 5px;
+
+    
+    display: flex;
+    align-items: flex-end;
+}
+
+.btn{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 200;
+    height: 100%;
+    width: 50%;
+
+    border-radius: 5px;
+    border-style: none;
+
+    
+}
+
+
+
+.colorpick {
+    background-color: #020202;
+    color: white;
+}
+
+.updesign {
+    background-color:#26262C;
+    color: white;
+}
+
+
+.cardcolor {
+    margin-left: 12px;
+    margin-right: 12px;
+    margin-top: 6px;
+    background-color: #020202;
+
+    height: 17%;
+    width: 92%;
+
+    border-radius: 5px;
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.card{
+    margin-top: 16px;
+    margin-left: 12px;
+    margin-right: 12px;
+    height: 100%;
+    width: 50%;
+
+    padding-left: 10px;
+ 
+}
+
+.row{
+    margin-top: 10px;
+}
+
+.pic{
+    height: 30px;
+    width: 30px;
+    border-radius: 12px;
+    border-style: none;
+    
+}
+
+.frontc {
+    background-color: #279CCB;
+}
+
+.backc{
+    background-color: rgb(255, 255, 255);
+}
+
+input {
+    border-color: rgba(255, 255, 255, 0.252);
+    border-width: 0.5px;
+    background-color: transparent;
+    border-radius: 4px;
+    width: 60%;
+    height: 30px;
+    color: white;
+}
+
+.docd {
+    font-size: 10px;
+    color: #8D8D8D;
+    margin-left: 32px;
+    margin-right: 32px;
+}
+
+.downd {
+    background-color: #2A2B2C;
+    border-style: none;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 200;
+    padding:12px 16px 12px 16px ; 
+    border-radius: 4px;
+ 
+}
+
+.dicon {
+    margin-left: 10px;
+}
+
+.submit {
+    margin-top: 1.5rem;
+   
+    margin-left: 22px;
+    margin-right: 22px;
+    display: flex;
+    justify-content: space-between;
+
+    position: relative;
+    box-sizing: border-box;
+}
+
+.btn2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 200;
+    color: white;
+    width: 50%;
+    padding: 5px;
+    margin: 2px;
+    border-radius: 5px;
+    
+}
+
+.back {
+    background-color: transparent;
+    border-style:groove;
+    border-color: orangered;
+}
+
+.save {
+    border-style:none;
+    background-color: orangered;
+}
